@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.Form1.resources
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.Properties.Resources.resources
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FrantGB\FrantGB\bin\Debug\FrantGB.exe.config
+C:\Users\HP\source\repos\FrantGB\FrantGB\bin\Debug\FrantGB.exe
+C:\Users\HP\source\repos\FrantGB\FrantGB\bin\Debug\FrantGB.pdb
+C:\Users\HP\source\repos\FrantGB\FrantGB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\FrantGB\FrantGB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.csproj.CopyComplete
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.exe
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.pdb
+C:\Users\HP\source\repos\FrantGB\FrantGB\obj\Debug\FrantGB.ReleveCompte.resources
